@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const appConstant = {\n  apiRoute: {\n    products: 'products'\n  }\n};","map":null,"metadata":{},"sourceType":"module"}
